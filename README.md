@@ -1,3 +1,3 @@
 # officeShipAR
  
-Vuforia package is not included.
+No tgz files are included.
