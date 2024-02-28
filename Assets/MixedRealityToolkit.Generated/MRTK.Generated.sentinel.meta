@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e51a81988c3b194097bfffa5682e484
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MixedRealityToolkit.Generated/MRTK.Generated.sentinel
+  uploadId: 637064

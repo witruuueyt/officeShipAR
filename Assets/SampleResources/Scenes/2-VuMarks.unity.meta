@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9b53b25a285640cf8ac170a80603e34
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scenes/2-VuMarks.unity
+  uploadId: 637064

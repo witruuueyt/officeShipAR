@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c504b73bf66872479cd1215fb5ce0fe
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/Shaders/MixedRealityTextMeshPro.shader
+  uploadId: 637064

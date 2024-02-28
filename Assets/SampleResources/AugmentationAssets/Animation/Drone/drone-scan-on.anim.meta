@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecae4d5ee5e7dec468a75b363977ddc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/AugmentationAssets/Animation/Drone/drone-scan-on.anim
+  uploadId: 637064

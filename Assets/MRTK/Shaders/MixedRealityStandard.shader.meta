@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5bdea20278144b11916d77503ba1467a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/Shaders/MixedRealityStandard.shader
+  uploadId: 637064

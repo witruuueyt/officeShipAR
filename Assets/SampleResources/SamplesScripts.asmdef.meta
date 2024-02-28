@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b730339290ba0f459f8410b34f31514
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/SamplesScripts.asmdef
+  uploadId: 637064

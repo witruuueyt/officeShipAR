@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ec64c1b5c56d41ea9f441d7079741fcd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Editor/Vuforia/Vuforia_RZR_Toy/authoringinfo.xml
+  uploadId: 637064

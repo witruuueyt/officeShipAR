@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d36d1387c68e814c987191dc39a852e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Resources/VuforiaModels/Vuforia_Marslander_RZR_Toy_Advanced/checksum.md5
+  uploadId: 637064

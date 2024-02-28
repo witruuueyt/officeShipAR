@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 356d9770fafda4666a5b89318a156f6f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Common/Prefabs/TitleBar.prefab
+  uploadId: 637064

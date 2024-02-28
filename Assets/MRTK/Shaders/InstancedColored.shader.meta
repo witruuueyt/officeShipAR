@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d199a2ca60343bb49ad9a41ddb45a083
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/Shaders/InstancedColored.shader
+  uploadId: 637064

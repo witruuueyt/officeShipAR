@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5296d01c505507e418aa9b185a36ab91
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scenes/LightingSettings.lighting
+  uploadId: 637064

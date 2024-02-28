@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-2.7289 -0.8175 -4.6672 5.4381 1.4466 7.6250" area="42" targetId="9a44ef259ed2438383a5ecdbe8e579b6" name="office_authoring_target" pathAuthoring="9a44ef259ed2438383a5ecdbe8e579b6_authoring.glb" pathOcclusion="9a44ef259ed2438383a5ecdbe8e579b6_occlusion.3dt" pathNavMesh="9a44ef259ed2438383a5ecdbe8e579b6_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

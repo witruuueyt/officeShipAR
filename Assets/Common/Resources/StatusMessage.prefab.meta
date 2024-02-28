@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd48a5176097a4514a36a9063c3474bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Common/Resources/StatusMessage.prefab
+  uploadId: 637064

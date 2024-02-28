@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26b0c24187a40734a89bfc6c224c8c60
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/UIAssets/Prefabs/ToggleFeaturesPanel.prefab
+  uploadId: 637064

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5e4c25e1c74344af598da190f7692996
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/SceneAssets/ModelTargets/Scripts/DepthCanvas.cs
+  uploadId: 637064

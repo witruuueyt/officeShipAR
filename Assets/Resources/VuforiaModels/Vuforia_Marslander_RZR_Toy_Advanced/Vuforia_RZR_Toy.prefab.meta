@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 043562fdc9ad8ac448f203ebce80e410
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Resources/VuforiaModels/Vuforia_Marslander_RZR_Toy_Advanced/Vuforia_RZR_Toy.prefab
+  uploadId: 637064

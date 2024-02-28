@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 522cd3d037ed832408d9ddd672f96f15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scripts/VoiceCommands.cs
+  uploadId: 637064

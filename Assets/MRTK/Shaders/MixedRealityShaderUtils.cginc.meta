@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dfab24eea71ce3745be340d7a24fe8eb
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/Shaders/MixedRealityShaderUtils.cginc
+  uploadId: 637064

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8238048e62b3fb047bc5dd12384f280a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/HoloToolkit/Utilities/Scripts/FixedAngularSize.cs
+  uploadId: 637064

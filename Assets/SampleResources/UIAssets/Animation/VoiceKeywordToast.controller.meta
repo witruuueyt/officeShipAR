@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26b19cb5e9d6f31489111407947e852c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/UIAssets/Animation/VoiceKeywordToast.controller
+  uploadId: 637064

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3997e2241185407d80309a82f9148466
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  uploadId: 637064

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb69de839bd015f4099b5bd2c45e53e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/HoloToolkit/Common/Scripts/Interpolator.cs
+  uploadId: 637064

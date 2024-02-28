@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 530386685ba085242832bd5cc78d7222
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scenes/2-ModelTargets.unity
+  uploadId: 637064

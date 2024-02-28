@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9dd29cebb85e5f74b9c104555110c06b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/UIAssets/Prefabs/Toaster.prefab
+  uploadId: 637064

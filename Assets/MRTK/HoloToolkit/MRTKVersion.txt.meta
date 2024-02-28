@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c263f2ca52c12b944808ffabe4193361
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/HoloToolkit/MRTKVersion.txt
+  uploadId: 637064

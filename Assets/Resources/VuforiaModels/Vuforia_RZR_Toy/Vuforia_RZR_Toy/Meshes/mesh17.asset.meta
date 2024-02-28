@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae9394c33b730904ea35888d5234e5a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Resources/VuforiaModels/Vuforia_RZR_Toy/Vuforia_RZR_Toy/Meshes/mesh17.asset
+  uploadId: 637064

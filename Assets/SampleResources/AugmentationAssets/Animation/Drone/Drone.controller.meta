@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65090b60d39188e44baa55f6244f67f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/AugmentationAssets/Animation/Drone/Drone.controller
+  uploadId: 637064

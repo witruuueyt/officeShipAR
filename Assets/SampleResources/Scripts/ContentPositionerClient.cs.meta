@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3d8df67b7aeb3f046977ae701d11a70f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scripts/ContentPositionerClient.cs
+  uploadId: 637064

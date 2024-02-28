@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 516ebdd6761ccdf438fd1d7e5ab7c9a7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MixedRealityToolkit.Generated/link.xml
+  uploadId: 637064

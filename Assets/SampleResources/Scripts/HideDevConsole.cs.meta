@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a0e06c89e9e4514e94ace0d620aaf38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scripts/HideDevConsole.cs
+  uploadId: 637064

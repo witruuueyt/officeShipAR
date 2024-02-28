@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af60ffd73611c4ea890c503e77061ebf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/AugmentationAssets/Animation/Astronaut/Astronaut.controller
+  uploadId: 637064

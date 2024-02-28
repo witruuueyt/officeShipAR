@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a883e935fa0195499ccdfab36b9826d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/SceneAssets/ModelTargets/Shaders/UnlitOverlay.shader
+  uploadId: 637064

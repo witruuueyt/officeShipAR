@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54ea9f30be414d86a7260eceb330c449
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/Shaders/InvisibleShader.shader
+  uploadId: 637064

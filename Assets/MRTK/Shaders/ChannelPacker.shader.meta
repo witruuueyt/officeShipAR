@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72ba6d7b37f51174bb3c7be2acc8fb0d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/Shaders/ChannelPacker.shader
+  uploadId: 637064

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a78b2917821ca424c887eecaf36ca9b4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scenes/0-ManagerScene.unity
+  uploadId: 637064

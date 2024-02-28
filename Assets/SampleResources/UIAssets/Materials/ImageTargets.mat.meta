@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6671f848d922c0a40b413fad796d13d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/UIAssets/Materials/ImageTargets.mat
+  uploadId: 637064

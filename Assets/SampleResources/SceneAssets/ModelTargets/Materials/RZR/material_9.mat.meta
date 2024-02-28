@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b23bdb17fbf2a4f9680b3f595be80ca3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/SceneAssets/ModelTargets/Materials/RZR/material_9.mat
+  uploadId: 637064

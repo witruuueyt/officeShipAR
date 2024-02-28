@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c9971390900a2e40947e125899491de
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/Resources/VuforiaModels/Vuforia_RZR_Toy/checksum.md5
+  uploadId: 637064

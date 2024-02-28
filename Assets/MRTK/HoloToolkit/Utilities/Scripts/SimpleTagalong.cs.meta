@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2be8bd2ebd8277c448d6d81c75517fee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/MRTK/HoloToolkit/Utilities/Scripts/SimpleTagalong.cs
+  uploadId: 637064

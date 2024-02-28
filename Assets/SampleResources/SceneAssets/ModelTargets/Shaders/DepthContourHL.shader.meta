@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25413ee585ca24b4abb2226727f84ec4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/SceneAssets/ModelTargets/Shaders/DepthContourHL.shader
+  uploadId: 637064

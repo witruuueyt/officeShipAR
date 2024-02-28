@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d48fb0ff69e0124468c731d307018ee4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/UIAssets/Animation/FadeOut.anim
+  uploadId: 637064

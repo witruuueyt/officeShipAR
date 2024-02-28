@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72a81fd0bdedaf0448e6c17d1e8fcb86
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/Scenes/1-Menu.unity
+  uploadId: 637064

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a92f3631047b1d3419876ce89bbf301e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101553
+  packageName: Vuforia Hololens 2 Sample
+  packageVersion: 10.20.3
+  assetPath: Assets/SampleResources/UIAssets/Materials/Resources/CursorRing.mat
+  uploadId: 637064
