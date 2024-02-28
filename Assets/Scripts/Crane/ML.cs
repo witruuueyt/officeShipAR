@@ -54,7 +54,7 @@ public class ML : MonoBehaviour
         {
             targetRotationSpeed = 0f; // 没有移动数据时，目标旋转速度为零
 
-            // 根据上一个移动数据确定旋转方向
+            // 根据previousMoveData确定旋转方向
             if (previousMoveData.Equals("1"))
             {
                 rotationDirection = Vector3.up;
