@@ -2,33 +2,33 @@ using UnityEngine;
 
 public class TT : MonoBehaviour
 {
-    public float maxTranslationSpeed = 10f; // 最大移动速度
-    public float accelerationRate = 10f; // 加速度
-    public float decelerationRate = 10f; // 减速度
-    public float minXPosition = -5.87f; // 最小 x 轴位置
-    public float maxXPosition = -0.37f; // 最大 x 轴位置
-    private bool shouldStop = false; // 是否应该停止移动
-    private string previousMoveData = "0"; // 上一个移动数据
+    public float maxTranslationSpeed = 10f; 
+    public float accelerationRate = 10f;
+    public float decelerationRate = 10f; 
+    public float minXPosition = -5.87f;
+    public float maxXPosition = -0.37f;
+    private bool shouldStop = false;
+    private string previousMoveData = "0"; 
     public string moveData;
 
     [SerializeField]
-    private float currentTranslationSpeed = 0f; // 当前移动速度
+    private float currentTranslationSpeed = 0f; 
 
-    // 向前移动
+
     public void MoveForward()
     {
         moveData = "1";
-        shouldStop = false; // 重新开始移动时重置 shouldStop
+        shouldStop = false; 
     }
 
-    // 向后移动
+ 
     public void MoveBackward()
     {
         moveData = "2";
-        shouldStop = false; // 重新开始移动时重置 shouldStop
+        shouldStop = false; 
     }
 
-    // 停止移动
+   
     public void StopMovement()
     {
         moveData = "0";
@@ -79,15 +79,15 @@ public class TT : MonoBehaviour
         {
             transform.localPosition = new Vector3(maxXPosition, transform.localPosition.y, transform.localPosition.z);
             currentTranslationSpeed = 0f;
-            moveData = "0"; // 停止移动
-            shouldStop = true; // 设置 shouldStop 为 true，表示已经停止移动
+            moveData = "0"; 
+            shouldStop = true; 
         }
         else if (effectiveXPosition < minXPosition)
         {
             transform.localPosition = new Vector3(minXPosition, transform.localPosition.y, transform.localPosition.z);
             currentTranslationSpeed = 0f;
-            moveData = "0"; // 停止移动
-            shouldStop = true; // 设置 shouldStop 为 true，表示已经停止移动
+            moveData = "0"; 
+            shouldStop = true; 
         }
     }
 }
