@@ -6,13 +6,9 @@ public class MT : MonoBehaviour
     public Transform partA;
     public Transform partB;
     public Transform partC;
-    public float dis;
+    public float dis = 750f;
     public float fixedData;
     public string moveData;
-    public float maxTranslationSpeed = 10f;
-    public float accelerationRate = 10f;
-    public float decelerationRate = 10f;
-    public float maxDistance;
 
     [SerializeField]
     private float currentTranslationSpeed = 0f;
@@ -21,32 +17,42 @@ public class MT : MonoBehaviour
 
     public void MoveForward()
     {
-        //¼ÓÒ»ÏÂmovedata
-        if(dis < 1500)
-        {
-            dis += 1f;
-        }
-        
+        moveData = "1";
     }
 
     public void BackForward()
     {
-        dis -= 1f;
+        moveData = "2";
     }
 
+    public void Stop()
+    {
+        moveData = "0";
+    }
 
     void Update()
     {
+       
+
+        if (moveData.Equals("1") && dis <1500)
+        {
+            dis += 1f;
+        }
+        else if (moveData.Equals("2") && dis > 50)
+        {
+            dis -= 1f;
+        }
+        else
+        {
+
+        }
+
         fixedData = dis / 100 * -1;
         UpdatePosition();
 
     }
     void UpdatePosition()
     {
-
-
-
-
 
         float lengthB = Mathf.Min(Mathf.Abs(fixedData), maxLength) * Mathf.Sign(fixedData);
         partB.localPosition = new Vector3(0, 0, lengthB);
