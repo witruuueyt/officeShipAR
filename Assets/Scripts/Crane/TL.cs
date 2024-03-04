@@ -8,7 +8,6 @@ public class TL : MonoBehaviour
     public string moveData; 
     public float targetAngleMin = -50f; 
     public float targetAngleMax = 20f; 
-    private bool shouldStop = false; 
     private string previousMoveData = "0"; 
     [SerializeField]
     private float currentRotationSpeed = 0f; 
@@ -17,13 +16,11 @@ public class TL : MonoBehaviour
     public void Rotate1()
     {
         moveData = "1";
-        shouldStop = false; 
     }
 
     public void Rotate2()
     {
         moveData = "2";
-        shouldStop = false;
     }
 
     public void StopRotation()
@@ -78,14 +75,12 @@ public class TL : MonoBehaviour
             transform.localEulerAngles = new Vector3(targetAngleMax, transform.localEulerAngles.y, transform.localEulerAngles.z);
             currentRotationSpeed = 0f;
             moveData = "0";
-            shouldStop = true; 
         }
         else if (effectiveRotationX < targetAngleMin)
         {
             transform.localEulerAngles = new Vector3(targetAngleMin, transform.localEulerAngles.y, transform.localEulerAngles.z);
             currentRotationSpeed = 0f;
             moveData = "0"; 
-            shouldStop = true;
         }
     }
 

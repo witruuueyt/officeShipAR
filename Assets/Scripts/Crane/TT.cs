@@ -7,7 +7,6 @@ public class TT : MonoBehaviour
     public float decelerationRate = 10f; 
     public float minXPosition = -5.87f;
     public float maxXPosition = -0.37f;
-    private bool shouldStop = false;
     private string previousMoveData = "0"; 
     public string moveData;
 
@@ -18,14 +17,12 @@ public class TT : MonoBehaviour
     public void MoveForward()
     {
         moveData = "1";
-        shouldStop = false; 
     }
 
  
     public void MoveBackward()
     {
         moveData = "2";
-        shouldStop = false; 
     }
 
    
@@ -43,13 +40,13 @@ public class TT : MonoBehaviour
         // 根据移动数据确定移动方向和目标移动速度
         if (moveData.Equals("1"))
         {
-            translationDirection = Vector3.forward;
+            translationDirection = Vector3.forward; //因为父级物体的角度以及自己的角度，反正是沿着x轴移动的
             targetTranslationSpeed = maxTranslationSpeed;
             previousMoveData = "1";
         }
         else if (moveData.Equals("2"))
         {
-            translationDirection = Vector3.back;
+            translationDirection = Vector3.back; //因为父级物体的角度以及自己的角度，反正是沿着x轴移动的
             targetTranslationSpeed = maxTranslationSpeed;
             previousMoveData = "2";
         }
@@ -80,14 +77,12 @@ public class TT : MonoBehaviour
             transform.localPosition = new Vector3(maxXPosition, transform.localPosition.y, transform.localPosition.z);
             currentTranslationSpeed = 0f;
             moveData = "0"; 
-            shouldStop = true; 
         }
         else if (effectiveXPosition < minXPosition)
         {
             transform.localPosition = new Vector3(minXPosition, transform.localPosition.y, transform.localPosition.z);
             currentTranslationSpeed = 0f;
             moveData = "0"; 
-            shouldStop = true; 
         }
     }
 }
